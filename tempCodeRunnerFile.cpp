@@ -1,0 +1,1 @@
+cin.getline(a,100);
